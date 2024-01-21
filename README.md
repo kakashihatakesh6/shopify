@@ -1,10 +1,6 @@
 # Shopify (E-Commerce - React Native)
 ## Introduction
 
-![home](https://github.com/kakashihatakesh6/shop-vista/assets/95236055/fb3b46f4-41d2-4541-9979-288ee8157a69)
-![payment](https://github.com/kakashihatakesh6/shop-vista/assets/95236055/c05d1740-2863-46be-a60a-f0dba79870ea)
-![tshirts](https://github.com/kakashihatakesh6/shop-vista/assets/95236055/b1832ffa-7eea-4916-a533-5f93bb4aab89)
-
 SHOPIFY | E-COMMERCE | FRONT-END AND BACKEND DEVELOPMENT
 Experience seamless online shopping on our cutting-edge Shopify E-Commerce website built on React Native, MongoDB, and Node.js. Enjoy secure transactions with Razorpay payment integration, ensuring a smooth and reliable checkout process for a hassle-free shopping experience.
 
